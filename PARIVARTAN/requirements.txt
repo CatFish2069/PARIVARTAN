@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pythreejs
+flet
+trimesh
+pillow
+pyfiglet
+hupper
